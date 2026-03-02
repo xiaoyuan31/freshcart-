@@ -1,0 +1,5 @@
+{
+  "name": "FreshCart Grocery List",
+  "description": "A mobile-first grocery list app to track items and ensure nothing is forgotten on shopping day.",
+  "requestFramePermissions": []
+}
